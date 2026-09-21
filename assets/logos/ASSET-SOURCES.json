@@ -1,0 +1,138 @@
+{
+  "retrieved_date": "2026-09-21",
+  "devicon_version": "v2.17.0",
+  "devicon_repository": "https://github.com/devicons/devicon",
+  "devicon_license": "MIT; see DEVICON-LICENSE.txt",
+  "trademark_notice": "Product names, logos, and brands remain property of their respective owners. Use for identification does not imply endorsement. Applicable brand policies still apply.",
+  "technology_logos": [
+    {
+      "file": "python.svg",
+      "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/python/python-original.svg",
+      "bytes": 2300,
+      "sha256": "71493b4a732f0532b3a03a7a95da3ee11a65766367c8303b901ffbe7bf91a3a2"
+    },
+    {
+      "file": "fastapi.svg",
+      "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/fastapi/fastapi-original.svg",
+      "bytes": 3065,
+      "sha256": "7ef41f6a363b00ff595e6d0b933c025c92cbfae29dc1df24b2f6eb8b476ee486"
+    },
+    {
+      "file": "flutter.svg",
+      "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/flutter/flutter-original.svg",
+      "bytes": 646,
+      "sha256": "c188249043aecad16b31eaa230474643270a8d8200b897af54a97949cb88e4ae"
+    },
+    {
+      "file": "react.svg",
+      "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/react/react-original.svg",
+      "bytes": 2387,
+      "sha256": "5825b649c8c04dec13ecf01d0182401bd0ec71789d2fa06224866d882cd1515f"
+    },
+    {
+      "file": "postgresql.svg",
+      "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/postgresql/postgresql-original.svg",
+      "bytes": 9178,
+      "sha256": "f220a436258ed014c512ba4f9c0de6b9e5c2c4b55331a0a29f8c7a1a12c36443"
+    },
+    {
+      "file": "tensorflow.svg",
+      "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/tensorflow/tensorflow-original.svg",
+      "bytes": 291,
+      "sha256": "44f2bb3db305bc30f50ec0578f7a4a840c82c3544d36e436ab7d8afee3937b71"
+    },
+    {
+      "file": "firebase.svg",
+      "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/firebase/firebase-original.svg",
+      "bytes": 1170,
+      "sha256": "6069e979418301117abe2223b62ffb9cedd8c5118fbd805da77170629eaef49c"
+    },
+    {
+      "file": "github.svg",
+      "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/github/github-original.svg",
+      "bytes": 1866,
+      "sha256": "45262793de6292206a895ed63593cdb1eaed82074173f7f4b5bdb3e427ca805a"
+    },
+    {
+      "file": "linkedin.svg",
+      "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/linkedin/linkedin-original.svg",
+      "bytes": 476,
+      "sha256": "71d3e25ef4e06ac34f385476cff2cef2757179af665cda086711d211d85610c0"
+    },
+    {
+      "file": "linux.svg",
+      "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/linux/linux-original.svg",
+      "bytes": 193922,
+      "sha256": "cf50ae4a263c6142963fad3561f7cb0311d0d41cc6189eadfb34f81a8a36acb0"
+    },
+    {
+      "file": "git.svg",
+      "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/git/git-original.svg",
+      "bytes": 778,
+      "sha256": "717a57ea97bf7e86de721dab3e68afac66332a10676d5c9abce4ae6a5a9c9983"
+    },
+    {
+      "file": "dart.svg",
+      "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/dart/dart-original.svg",
+      "bytes": 710,
+      "sha256": "8dec3d6f6d92d5c8db294baf7ea89cbad5c3dd0f7fde5ca972ffc6cebf9b2d40"
+    },
+    {
+      "file": "DEVICON-LICENSE.txt",
+      "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/LICENSE",
+      "bytes": 1072,
+      "sha256": "121194741d4a915b9f5890fdd6dd95121f9b1f816517c792358d72d7c838d664"
+    }
+  ],
+  "app_icons": [
+    {
+      "file": "jobsphere.png",
+      "listing": "https://play.google.com/store/apps/details?id=com.omepapi.jobs",
+      "url": "https://play-lh.googleusercontent.com/URSn-i0wDfGeauwo5LUqZfax_u9xYysyGvKWhXolUsbDuZv2VuVvTCBlQY3bTJe0sSBw8UF4AyHCT3rNWtkWDA=w240-h480",
+      "license": "Publisher-owned app artwork; no open license asserted. Included for identification of the portfolio owner\u2019s app.",
+      "bytes": 67137,
+      "size": [
+        240,
+        240
+      ],
+      "sha256": "5e206e882630ce027a650cfad7c04319a61eb11908e321f34eba1d2c4f49ef17"
+    },
+    {
+      "file": "ngojobsite.png",
+      "listing": "https://play.google.com/store/apps/details?id=com.omegapi.ngojobsite",
+      "url": "https://play-lh.googleusercontent.com/3755RUUdDgfLWGzGYUte56bmbIJnwXEBcE03QveIhHmevgNryrTceNRbP3t5OA7Sm7b2bf7Y56Rm8pLjE11lww=w240-h480",
+      "license": "Publisher-owned app artwork; no open license asserted. Included for identification of the portfolio owner\u2019s app.",
+      "bytes": 22541,
+      "size": [
+        240,
+        240
+      ],
+      "sha256": "eaeae80413ac661295eb37faefc172a213af03425a33b98f2343e37c3d15e74b"
+    },
+    {
+      "file": "livefootballscore.png",
+      "listing": "https://play.google.com/store/apps/details?id=com.omegapi.livescore",
+      "url": "https://play-lh.googleusercontent.com/IPPjmT5eL53owGh1-Uq71zdq86s_uur-JkZZ9k3vhbO34y3RpQxXVhmz1UtToub4u0X9WAj5vvUswyNbWXGq=w240-h480",
+      "license": "Publisher-owned app artwork; no open license asserted. Included for identification of the portfolio owner\u2019s app.",
+      "bytes": 36591,
+      "size": [
+        240,
+        240
+      ],
+      "sha256": "a3f0d0642f2935774743d4b9c9578278996c2bc986f9e3884d010e60f428039d"
+    },
+    {
+      "file": "primescan.png",
+      "listing": "https://play.google.com/store/apps/details?id=com.magnatrus.primescan",
+      "url": "https://play-lh.googleusercontent.com/N5WwQy1Pp9IDlbgbbf1kCxIKWCrtMB-kdfI_JgwDb2RXl8TeYMasXBvfmMn2h659HgfebRDPUiYj355_EMJh=w240-h480",
+      "license": "Publisher-owned app artwork; no open license asserted. Included for identification of the portfolio owner\u2019s app.",
+      "bytes": 56781,
+      "size": [
+        240,
+        240
+      ],
+      "sha256": "4e79259431bfb04c88047d8e182ea57ecd29ecb2f821ff5c934faf5b4c0bd2fa"
+    }
+  ],
+  "app_image_processing": "Decoded official Google Play icon images and saved as PNG at original downloaded 240x240 dimensions; no visual modifications."
+}
