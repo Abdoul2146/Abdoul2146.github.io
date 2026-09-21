@@ -45,7 +45,9 @@ The included `.nojekyll` file is intentional; keep it if your upload method incl
 | `styles.css` | Colour palette, layout, responsive behaviour and print styles |
 | `script.js` | Mobile navigation, active desktop navigation and current year |
 | `assets/favicon.svg` | The `as` browser-tab icon |
-| `assets/Abdulhakim_Sulaiman_Resume.pdf` | Professional software engineering résumé |
+| `assets/Abdulhakim_ResumeBackend.pdf` | Backend résumé linked from the introduction and experience sections |
+| `assets/Abdulhakim_ResumeMobile.pdf` | Mobile résumé linked from the introduction and experience sections |
+| `assets/Abdulhakim_Sulaiman_Resume.pdf` | Combined software engineering résumé retained as a backup |
 | `assets/Abdulhakim_Sulaiman_CV.pdf` | Academic CV, linked from the research section |
 | `editable/Abdulhakim_Sulaiman_Resume.docx` | Editable Word source for the professional résumé |
 | `assets/logos/` | Local technology, social and official app logos, with source and license records |
@@ -57,7 +59,8 @@ The included `.nojekyll` file is intentional; keep it if your upload method incl
 - **Text and links:** open `index.html` in VS Code or any text editor. The page sections use descriptive IDs: `home`, `work`, `experience`, `about`, `research` and `contact`.
 - **Projects:** copy one `<article class="project-card">` for a featured project, or an `<article class="archive-row">` for an entry in the expandable archive. Update the title, description, technologies and links.
 - **Colours:** change the variables at the top of `styles.css`. `--bg` controls the navy background; `--accent` controls the mint accent.
-- **Professional résumé:** replace `assets/Abdulhakim_Sulaiman_Resume.pdf` with a new PDF using the same filename. The introduction and experience links will continue to work.
+- **Backend résumé:** replace `assets/Abdulhakim_ResumeBackend.pdf` with a new PDF using the same filename. The introduction and experience links will continue to work.
+- **Mobile résumé:** replace `assets/Abdulhakim_ResumeMobile.pdf` with a new PDF using the same filename. The introduction and experience links will continue to work.
 - **Academic CV:** replace `assets/Abdulhakim_Sulaiman_CV.pdf` with a new PDF using the same filename. The research section link will continue to work.
 - **Contact:** search for your email address in `index.html` and update every occurrence if it changes.
 - **Roles and dates:** edit the current positions in both the introduction and experience sections when your employment changes.
