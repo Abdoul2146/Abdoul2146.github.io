@@ -67,15 +67,16 @@
             <ul class="tags" aria-label="NetConnect technologies"><li><img src="assets/logos/flutter.svg" alt="" width="16" height="16" loading="lazy">Flutter</li><li><img src="assets/logos/fastapi.svg" alt="" width="16" height="16" loading="lazy">FastAPI</li><li>SQLite</li><li>WebSockets</li></ul>
             <div class="project-links"><a href="https://github.com/Abdoul2146/NetConnect_Server" target="_blank" rel="noopener noreferrer">Backend <span aria-hidden="true">↗</span></a><a href="https://github.com/Abdoul2146/NetConnnect_Client" target="_blank" rel="noopener noreferrer">Flutter client <span aria-hidden="true">↗</span></a><a href="https://zenodo.org/records/17896321" target="_blank" rel="noopener noreferrer">Thesis <span aria-hidden="true">↗</span></a></div>
           </div>
-          <div class="system-map" role="img" aria-label="NetConnect architecture: Flutter clients communicate over a local network with a FastAPI backend using WebSockets and JWT authentication. The backend stores data in SQLite.">
+          <div class="system-map" role="img" aria-label="NetConnect architecture: Flutter clients communicate over a local network with a FastAPI backend using WebSockets and JWT authentication. The backend stores users, chats and file metadata in SQLite, while uploaded file content is stored on the server filesystem.">
             <div class="map-caption"><span>NETCONNECT</span><span>SYSTEM OVERVIEW</span></div>
             <div class="client-row"><div class="map-node client-node"><span class="node-icon" aria-hidden="true">01</span><strong>Flutter client</strong></div><div class="map-node client-node"><span class="node-icon" aria-hidden="true">02</span><strong>Flutter client</strong></div></div>
             <div class="map-join" aria-hidden="true"><i></i><i></i></div>
             <span class="connection-label">LOCAL NETWORK · WEBSOCKETS</span>
             <div class="map-stem" aria-hidden="true"></div>
-            <div class="map-node server-node"><span class="node-eyebrow">BACKEND</span><strong>FastAPI</strong><span>Authentication · Messages · Files</span></div>
+            <div class="map-node server-node"><span class="node-eyebrow">BACKEND</span><strong>FastAPI</strong><span>Authentication · Messaging · File API</span></div>
             <div class="map-stem" aria-hidden="true"></div>
-            <div class="map-node database-node"><span class="node-eyebrow">PERSISTENCE</span><strong>SQLite</strong></div>
+            <div class="storage-join" aria-hidden="true"><i></i><i></i></div>
+            <div class="storage-row"><div class="map-node storage-node"><span class="node-eyebrow">RECORDS</span><strong>SQLite</strong><span>Users · Chats · Metadata</span></div><div class="map-node storage-node"><span class="node-eyebrow">UPLOADS</span><strong>File storage</strong><span>Images · Documents</span></div></div>
             <p class="map-note">Designed for communication on a LAN.<br>No internet connection required.</p>
           </div>
         </article>
